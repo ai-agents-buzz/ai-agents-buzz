@@ -1,4 +1,4 @@
-## Hi, I'm David, founder of AI Agents Buzz.
+## Hi, I'm Dave, founder of AI Agents Buzz.
 We curate and review AI agents and tools to help people find the right solutions.
 Always happy to contribute to open-source AI resources.
 <!--
